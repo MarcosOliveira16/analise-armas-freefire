@@ -1,0 +1,69 @@
+Weapon Name,Ammo Count,Description,Tags,Type
+RGS50,3,The anti-materiel Launcher (AML) can lock on to vehicles.,"HIGH DAMAGE, DESTROYER",Melee
+MGL140,5,"Grenade launcher with mid-sized magazine, low rate of fire, huge power.","AREA OF EFFECT, HIGH DAMAGE",Rifle
+M79,1,"Deals area damage, requires skillful control.","AREA OF EFFECT, PROJECTILE",Launcher
+GATLING,1200,"Insane fire rate and power, but reduces mobility.","HIGH FIRE POWER, INSANE FIRE RATE",Marksman Rifle
+M60,68,Large magazines and solid mid-range fire power.,"MID RANGE, HIGH CLIP-SIZE",Projectile
+M249,100,"Light gun with high clip size, airdrop only.","RARE, HIGH CLIP-SIZE",Rifle
+KORD,80,Best when squatting or proning.,"HIGH CLIP-SIZE, HIGH FIRE POWER",Pistol
+CG15,28,Charges to fire a high damage shot.,"LONG RANGE, CHARGEABLE",Shotgun
+P90,58,"High rate of fire, strong mid-range power.","SILENCED, INSANE FIRE RATE",Melee
+MP40,28,"Very stable, close-range beast.","INSANE FIRE RATE, CLOSE RANGE",Sub-machine gun
+UMP,38,Stable and great for beginners.,"ACCURATE, CLOSE RANGE",Melee
+MP5,38,"Excellent stability, weak at long range.","CLOSE RANGE, HIGH FIRE RATE",Launcher
+VSS,15,Silenced sniper-like SMG.,"LONG RANGE, SILENCED",Sub-machine gun
+THOMPSON,42,Large-caliber and effective at close range.,"CLOSE RANGE, HIGH FIRE RATE",Pistol
+VECTOR,23,"Akimbo mode, deadly in close range.","AKIMBO, CLOSE RANGE",Marksman Rifle
+MAC10,38,Silenced and well-balanced.,"HIGH FIRE RATE, CLOSE RANGE",Pistol
+BIZON,25,Powerful but lacks stability.,"HIGH DAMAGE, OUTBURST",Sniper
+KATANA,0,Samurai's weapon.,"MELEE, SHIELD",Sub-machine gun
+BAT,0,"Longer range than pan, less bullet deflection.","MELEE, HIGH MOBILITY",Rifle
+PAN,0,Ultimate defensive shield.,"MELEE, SHIELD",Rifle
+PARANG,0,"Longer range than pan, defensive sword.","MELEE, SHIELD",Sub-machine gun
+SCYTHE,0,High damage and decent range.,"MELEE, HIGH DAMAGE",Machine gun
+FF KNIFE,3,Lethal in close combat.,"HIGH DAMAGE, CLOSE RANGE",Rifle
+AK47,38,"High damage, hard to control.","High Damage, High Recoil",Sub-machine gun
+GROZA,38,"Powerful, long-range, stable.","Rare, Long Range",Sniper
+SCAR,48,Balanced and beginner-friendly.,"Balanced, Low Recoil",Pistol
+PLASMA,38,"Energy-based, can overheat.","Rare, Long Range",Rifle
+AUG,35,High combat effectiveness.,Rare,Shotgun
+PARAFAL,28,Good damage and mobility.,"Mid Range, High Damage",Shotgun
+KINGFISHER,22,"Fast firing, high destruction.","Mid Range, Burst Fire",Launcher
+G36,38,"Dual firing modes, versatile.","Accurate, High Damage",Projectile
+SHIELD GUN,53,Generates and regenerates shield.,"Mid Range, Shield",Machine gun
+TREATMENT LASER GUN,38,Heals teammates with aim lock.,"Mid Range, Healing",Rifle
+AN94,39,"Powerful, long range, high recoil.","High Fire Power, Mid Range",Melee
+XM8,38,"Comes with 2x scope, stable.","2x Scope, Stable",Rifle
+FAMAS,39,"Fires 3-burst shots, deadly at mid/long range.","Burst Fire, High Fire Rate",Projectile
+M4A1,39,"All-rounder, balanced.","User-Friendly, Long Range",Sniper
+Healing Pistol,38,The Treatment Gun deals damage against enemies and heals your allies.,"Healing, Close Range",Rifle
+M500,5,"Comes with a pre-attached 2x scope, meant to destroy enemies from long range. Single fire pistol with a small clip size.","Long Range, High Damage",Melee
+USP,12,Lightweight pistol that does not affect the user's agility in combat.,"High Mobility, Suitable for Initial Phase",Sub-machine gun
+G18,24,"Pistol with a high clip size, but lacks in power. Great for close range.","High Clip-Size, Close Range",Projectile
+Desert Eagle,11,"Slow-firing pistol that packs a punch, even across long distances.","High Damage, High Mobility",Marksman Rifle
+USP-2,12,Double the goodness of a USP.,"Akimbo, Secondary Weapon",Shotgun
+M1917,12,"One bullet for the enemy, and another for the traitor. Side weapon.","Akimbo, Secondary Weapon",Marksman Rifle
+Charge Buster,3,"A shotgun. Hold fire button to charge up damage and range, and to reduce spread. Charging resets if held over the threshold.","OUTBRUST, CHARGED",Rifle
+Trogon,29,"A shotgun with burst mode and grenade mode, suitable for both long-range and close-range combat.","GRENADE, 3 ROUND BURST",Sniper
+M590,17,A mid-to-close-range powerhouse.,HIGH DAMAGE,Bow
+SPAS12,5,"Very powerful short-range shotgun. You will most likely be punished heavily if you miss, due to the fact that it is a single fire weapon.","SINGLE FIRE, SHORT RANGE",Shotgun
+M1014,6,Use a shotgun to quickly decimate your nearby opponents.,"SHORT RANGE, HIGH DAMAGE",Sniper
+M1887,2,Large-caliber double-shot shotguns are equally threatening to enemies at close range.,"HIGH DAMAGE, CLOSE RANGE",Shotgun
+MAG-7,8,"With mid-range power and high fire rate, the MAG-7 is more agile than most shotguns.","HIGH CLIP-SIZE, INSANE FIRE RATE",Machine gun
+Crossbow,1,Uses crossbow bolts. Bolts leave your enemies bleeding and they continue to take damage over time. Crossbows are silent killers that easily pierce all kinds...,"DAMAGE OVER TIME, LONG RELOAD TIME",Shotgun
+VSK94,26,A lightweight sniper rifle with a special aiming mechanism,LONG RANGE,Sniper
+KAR98K,5,A well-balanced sniper rifle pre-equipped with an 8x scope,"LONG RANGE, HIGH DAMAGE",Rifle
+AWM,5,High damage sniper rifle with a long reload time,"LONG RANGE, GOOD FOR STATIONARY TARGETS",Sub-machine gun
+M82B,8,Anti-vehicle sniper with extra damage to vehicles and ice wall,"HIGH DAMAGE, PENETRATE THE ICE WALL",Machine gun
+HEALING SNIPER,5,Restores HP for teammates if shot at them. Can't use while overheated,"LONG RANGE, HEALING",Sub-machine gun
+M24,15,Light sniper rifle with high mobility and fast firing rate,"HIGH MOBILITY, PENETRATE THE ICE WALL",Rifle
+GLOO MELTER,0,"After explosion, creates a corrosive range that damages Gloo Walls","THROWABLE, EXTRA DAMAGE TO GLOO WALL",Rifle
+GRENADE,0,Flushes enemies out of cover with powerful explosion,AREA DAMAGE,Projectile
+SMOKE GRENADE,0,"Generates smoke, ideal for screening and flanking",SMOKE SCREEN,Melee
+GLOO WALL,0,Deployable wall to protect yourself from attacks,SHIELD,Pistol
+FLASH FREEZE,0,Freezing explosion slows enemies and deals damage over time,"SLOW DOWN, DAMAGE OVER TIME",Pistol
+SVD,18,Very accurate automatic sniper rifle; only found in airdrops/resupply,"RARE, LONG RANGE",Marksman Rifle
+SKS,16,Semi-automatic sniper with pre-attached 4x scope,"LONG RANGE, HIGH DAMAGE",Rifle
+M14,24,"Longest range, behaves like a sniper rifle","LONG RANGE, HIGH DAMAGE",Pistol
+WOODPECKER,12,Uses AR ammo; great armor-piercing and precision,"HIGH DAMAGE, HIGH ARMOR PENETRATION",Sub-machine gun
+AC80,8,Two consecutive hits trigger bonus damage; ideal for mid-to-long range,"LONG RANGE, ADDITIONAL DAMAGE",Sub-machine gun
