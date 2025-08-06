@@ -18,7 +18,6 @@ Este projeto utiliza um **ambiente virtual (venv)** para gerenciar as dependênc
 ```bash
 git clone <url-do-repositório>
 cd nome-do-projeto
-````
 
 ### 2. Crie o ambiente virtual:
 
