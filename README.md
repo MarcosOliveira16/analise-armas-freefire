@@ -94,5 +94,3 @@ Sinta-se à vontade para sugerir melhorias, reportar bugs ou contribuir com novo
 ## 📜 Licença
 
 Este projeto é apenas para fins educacionais e informativos, sem afiliação oficial com a Garena ou o Free Fire.
-
-```
