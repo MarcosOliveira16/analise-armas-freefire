@@ -1,4 +1,3 @@
-````markdown
 # 🔫 Análise de Armas do Free Fire - Projeto em Python
 
 Este projeto tem como objetivo realizar análises sobre as armas presentes no jogo **Free Fire**, da desenvolvedora **Garena**, utilizando **Python** e bibliotecas de ciência de dados.
