@@ -104,7 +104,3 @@ Este projeto é aberto à colaboração!
 ## 📜 Licença
 
 Este projeto é apenas para fins educacionais e informativos, sem qualquer afiliação oficial com a **Garena** ou o jogo **Free Fire**.
-
-```
-
----
